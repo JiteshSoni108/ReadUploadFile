@@ -1,0 +1,7 @@
+CREATE TABLE FILE_DETAILS
+(
+FILE_ID int,
+NAME varchar(255),
+DESCRIPTIONS varchar(255),
+UPDATED_TIME varchar(255)
+)
